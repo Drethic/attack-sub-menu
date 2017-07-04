@@ -12,3 +12,16 @@ attack and skills menu items.
 
 If you add more than one Skill Type to a Class/Actor the names will be alphabatized
 in descending order.
+
+## Terms of Use
+
+Any original material made by Drethic is free for use with both free and commercial RPG Maker games unless specified otherwise. I do not demand royalties or special liberties if you choose to use Drethic original content in your commercial games. (Although a free copy of your game would be nice!) I only ask that you provide Drethic a spot in your game’s credits.
+
+Any edits made to Drethic original material are okay as long as you still provide the proper credit. Any non-Original content posted, linked, or shared on my website and channel will still require you to contact the respective parties for permission of use.
+
+I think this is simple. I’d like to keep it simple. I ask of you, as users, to please do not do things that will make me complicate it for everyone.
+
+Happy RPG Making!
+
+(Terms of Use shamelessly stolen from http://yanfly.moe/terms-of-use/) :)
+
